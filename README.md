@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cyaya
 - 👀 I’m interested in java web c c++
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on java web
 - 📫 How to reach me 1961971441@qq.com
 
 <!---
